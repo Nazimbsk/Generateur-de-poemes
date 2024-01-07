@@ -1,4 +1,9 @@
-﻿# Generateur-de-Poemes
+## Membres du projet
+* Ahmed Tahar Amar
+* Nazim Bouskra
+
+ 
+ # Generateur-de-Poemes
 Bienvenue dans le projet Generateur-de-Poemes. Ce projet a été créé pour explorer la génération automatisée de poèmes en utilisant différentes technologies et bibliothèques.
 
 # Bibliothèques Utilisées
@@ -32,9 +37,5 @@ Pour utiliser ce projet, assurez-vous d'avoir installé les dépendances nécess
 python3 nltk_poeme.py
 
 N'oubliez pas d'explorer l'image générée dans le répertoire pour découvrir le poème ainsi que l'image créée par le générateur.
-
-# Membres du projet
-* Ahmed Tahar Amar
-* Nazim Bouskra
 
 
